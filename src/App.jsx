@@ -1,5 +1,5 @@
 import styles from "./App.module.css";
-import { Gettoknowme } from "./components/GetToKnowMe/GetToKnowMe";
+import { Gettoknowme } from "./components/GetToKnowMe/Gettoknowme";
 import { Hireme } from "./components/HireMe/Hireme";
 import { Work_history } from "./components/Work_history/Work_history";
 import { Dev } from "./components/Dev/Dev";
