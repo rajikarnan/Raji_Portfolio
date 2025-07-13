@@ -39,8 +39,8 @@ export const Gettoknowme = () => {
       <h2 className={styles.title2}>If you need me in Office</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/location.jpg")}
-          alt="Me sitting with a laptop"
+          src={getImageUrl("about/Location.jpg")}
+          alt="Location"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
