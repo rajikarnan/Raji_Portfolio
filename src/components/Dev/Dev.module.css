@@ -120,6 +120,10 @@
   .content {
     align-items: center;
   }
+  .heroImg {
+    width: 60%;
+    margin-bottom: 20px;
+  }
 
   .title {
     width: 100%;
