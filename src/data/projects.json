@@ -17,15 +17,14 @@
     "title": "SEC NSS - app",
     "imageSrc": "projects/secnss.png",
     "description": "An app for the National Service Scheme (NSS) of Saveetha Engineering College, Chennai. It includes features such as a profile page, event registration, and a news feed. The app is designed to enhance communication and engagement within the NSS community.",
-    "skills": ["React", "Node"],
+    "skills": ["Java", "SQLite", "Android"],
     "source": "https://github.com/rajikarnan/secnss"
   },
   {
     "title": "RMC VClassrooms - website and app",
     "imageSrc": "projects/vclassroom.png",
     "description": "An Learning platform that schools or colleges can administer to teach online. Includes feature to upload notes, conduct exams/tests, upload and evaluate assignments, view exam and assignment results, access to books online, and conduct online classes. Separate logins for Students and staff.",
-    "skills": ["React", "Node"],
-    "source": "https://www.github.com"
+    "skills": ["React", "Node"]
   },
   {
     "title": "Crime mapping",
@@ -44,7 +43,7 @@
     "title": "Screenshot Timer",
     "imageSrc": "projects/timer.png",
     "description": "Just a little play with PHP",
-    "skills": ["Java", "SQLite", "Android"],
+    "skills": ["PHP", "HTML", "CSS"],
     "source": "https://github.com/rajikarnan/screenshotTimer"
   }
 ]
