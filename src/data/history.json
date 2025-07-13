@@ -1,5 +1,18 @@
 [
   {
+    "role": "Freelance Full Stack Developer",
+    "organisation": "Tetton IT Management Services",
+    "startDate": "Feb, 2025",
+    "endDate": "present",
+    "experiences": [
+      "Redesigned sites to enhance navigation and improve visual appeal.",
+"Contributed ideas towards improving the usability of web application interfaces.",
+"Designed and implemented user interfaces using HTML, CSS, and JavaScript to enhance user experience.",
+"Kept detailed documentation on test plans, procedures, and end results."
+    ],
+    "imageSrc": "history/tetton.svg"
+  },
+  {
     "role": "Senior Software Engineer",
     "organisation": "Altimetrik",
     "startDate": "Feb,2023",
@@ -22,8 +35,13 @@
     "startDate": "Jan, 2022",
     "endDate": "Feb, 2023",
     "experiences": [
-      "Partnered directly with Samsung at their facility.",
-      "Played a pivotal role in the development and launch of Samsung MyOrders, a post-purchase management system."
+      "Company Overview: Healthcare",
+"TechStack - ReactJS, Typescript, Redux, NodeJS, TypeORM, HTML + CSS, JavaScript, PostgreSQL, Gherkin",
+"Created many components and worked on APIs, integrations, frontend and backend development, unit, component, and API tests.",
+"Working with clients for product improvement and changes in a business-to-business environment.",
+"Developed a workflow for covid-19 test data for cruise ships embarkation and result generation - collecting customer info, adding test tube data, and result upload",
+"Mentored two junior developers, guiding them in best coding practices to ensure quality and adherence to project timelines.",
+"Developed and managed modules on the Prenetics e-commerce website (circledna.com, circlepaw.com)"
     ],
     "imageSrc": "history/prenetics.png"
   },
@@ -33,8 +51,13 @@
     "startDate": "Sep, 2020",
     "endDate": "Jan, 2022",
     "experiences": [
-      "Partnered directly with Samsung at their facility.",
-      "Played a pivotal role in the development and launch of Samsung MyOrders, a post-purchase management system."
+      "Company Overview: Trading platform",
+      "TechStack - JavaScript, JQuery, React, Blockchain/Cryptocurrency, HTML + CSS, XML",
+      "Responsible for the overall functionality and UI/UX of the website",
+      "Implemented innovative solutions, including a BTC payment acceptance system.",
+      "Created a system for recording time allocated to user support.",
+      "Implemented an engaging self-help portal, reducing time spent on user support.",
+      "Enhanced efficiency in handling trading information by automation."
     ],
     "imageSrc": "history/tetton.svg"
   },
@@ -45,12 +68,11 @@
     "endDate": "Jan, 2022",
     "experiences": [
       "Zoho Product: Zoho Cliq",
-"TechStack - Java, JavaScript, JQuery, React, HTML + CSS",
-"Directed complete overhaul of product's visual and functional design.",
-"Engineered a suite of new functionalities, with the Media gallery becoming particularly popular.",
-"Boosted the operational efficiency of the media gallery.",
-"Implemented and directed improvements in Admin panel operations."
-
+      "TechStack - Java, JavaScript, JQuery, React, HTML + CSS",
+      "Directed complete overhaul of product's visual and functional design.",
+      "Engineered a suite of new functionalities, with the Media gallery becoming particularly popular.",
+      "Boosted the operational efficiency of the media gallery.",
+      "Implemented and directed improvements in Admin panel operations."
     ],
     "imageSrc": "history/zoho.png"
   }
