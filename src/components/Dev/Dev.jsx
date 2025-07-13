@@ -13,7 +13,7 @@ export const Dev = () => {
       />
 
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Raji</h1>
+        <h1 className={styles.title}>Hi, I'm Raji Karnan</h1>
         <p className={styles.description}>
           Experienced Full-Stack Developer based in Napier, New Zealand, with a
           robust 5-year background in developing innovative technical solutions

@@ -24,11 +24,14 @@ export const ProjectCard = ({
           );
         })}
       </ul>
-      <div className={styles.links}>
-        <a href={source} target="_blank" className={styles.link}>
-          Source
-        </a>
-      </div>
+
+      {source && (
+        <div className={styles.links}>
+          <a href={source} target="_blank" className={styles.link}>
+            Source
+          </a>
+        </div>
+      )}
     </div>
   );
 };

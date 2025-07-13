@@ -4,7 +4,7 @@
     "imageSrc": "projects/portfolio.png",
     "description": "Nothing much, you are looking at it right now. A portfolio website to showcase my work and skills.",
     "skills": ["React", "HTML", "CSS"],
-    "source": "https://github.com/rajikarnan/MyPortfolio"
+    "source": "https://github.com/rajikarnan/Raji_Portfolio"
   },
   {
     "title": "NoteVault - website",
@@ -25,7 +25,6 @@
     "imageSrc": "projects/vclassroom.png",
     "description": "An Learning platform that schools or colleges can administer to teach online. Includes feature to upload notes, conduct exams/tests, upload and evaluate assignments, view exam and assignment results, access to books online, and conduct online classes. Separate logins for Students and staff.",
     "skills": ["React", "Node"],
-    "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {

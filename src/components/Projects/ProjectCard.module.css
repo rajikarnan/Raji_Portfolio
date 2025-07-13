@@ -66,3 +66,9 @@
   width: 90%;
   text-align: center;
 }
+
+@media screen and (max-width: 830px) {
+  .container {
+    height: fit-content;
+  }
+}
