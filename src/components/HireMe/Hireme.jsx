@@ -13,20 +13,24 @@ export const Hireme = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:rajikarnan24@gmail.com">rajikarnan24@gmail.com</a>
+          <a target="_blank" rel="noopener noreferrer" href="mailto:rajikarnan24@gmail.com">
+            rajikarnan24@gmail.com
+          </a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/rajikarnan">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rajikarnan">
             linkedin.com/in/rajikarnan
           </a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/rajikarnan">github.com/rajikarnan</a>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/rajikarnan">
+            github.com/rajikarnan
+          </a>
         </li>
       </ul>
     </footer>
