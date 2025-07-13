@@ -1,0 +1,15 @@
+:root {
+    /* Colours */
+    --color-text: rgb(255, 255, 255);
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #0e1521;
+    --color-btn: rgb(87 159 255);
+  
+    /* Fonts */
+    --font-roboto: "Roboto";
+    --font-tangerine: "Tangerine";
+    --font-montserrat: "Montserrat";
+  }
+  

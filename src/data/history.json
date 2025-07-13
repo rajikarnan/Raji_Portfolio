@@ -1,0 +1,57 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Altimetrik",
+    "startDate": "Feb,2023",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Partnered directly with Samsung at their facility.",
+      "Played a pivotal role in the development and launch of Samsung MyOrders, a post-purchase management system.",
+      "Contributed to the design and implementation of the Samsung Ring post-order process, including size selection.",
+      "Streamlined return and replacement processes, significantly improving customer satisfaction and operational efficiency.",
+      "TechStack - Vue JS, React JS, Typescript, Redux, Node JS, PostgreSQL, TypeORM, HTML, CSS, Next JS.",
+      "Led the development and launch of seven innovative features, enhancing user experience and functionality.",
+      "Earned an Exemplary Achievement and Performance award for outstanding contributions to project success and efficiency improvement.",
+      "Assisted with new product launches through vigilant monitoring."
+    ],
+    "imageSrc": "history/altimetrik.png"
+  },
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Prenetics",
+    "startDate": "Jan, 2022",
+    "endDate": "Feb, 2023",
+    "experiences": [
+      "Partnered directly with Samsung at their facility.",
+      "Played a pivotal role in the development and launch of Samsung MyOrders, a post-purchase management system."
+    ],
+    "imageSrc": "history/prenetics.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Tetton IT Management Services",
+    "startDate": "Sep, 2020",
+    "endDate": "Jan, 2022",
+    "experiences": [
+      "Partnered directly with Samsung at their facility.",
+      "Played a pivotal role in the development and launch of Samsung MyOrders, a post-purchase management system."
+    ],
+    "imageSrc": "history/tetton.svg"
+  },
+  {
+    "role": "Member Technical Staff",
+    "organisation": "Zoho Corporation",
+    "startDate": "Sep, 2020",
+    "endDate": "Jan, 2022",
+    "experiences": [
+      "Zoho Product: Zoho Cliq",
+"TechStack - Java, JavaScript, JQuery, React, HTML + CSS",
+"Directed complete overhaul of product's visual and functional design.",
+"Engineered a suite of new functionalities, with the Media gallery becoming particularly popular.",
+"Boosted the operational efficiency of the media gallery.",
+"Implemented and directed improvements in Admin panel operations."
+
+    ],
+    "imageSrc": "history/zoho.png"
+  }
+]

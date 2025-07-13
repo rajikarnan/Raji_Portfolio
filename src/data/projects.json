@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Portfolio - website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Nothing much, you are looking at it right now. A portfolio website to showcase my work and skills.",
+    "skills": ["React", "HTML", "CSS"],
+    "source": "https://github.com/rajikarnan/MyPortfolio"
+  },
+  {
+    "title": "NoteVault - website",
+    "imageSrc": "projects/notes.png",
+    "description": "A place to store notes with registration nd login facilities, save and categorize your notes",
+    "skills": ["React", "Node", "MongoDB", "HTML", "CSS"],
+    "source": "https://github.com/rajikarnan/MyClasswork-Notes-app"
+  },
+  {
+    "title": "SEC NSS - app",
+    "imageSrc": "projects/secnss.png",
+    "description": "An app for the National Service Scheme (NSS) of Saveetha Engineering College, Chennai. It includes features such as a profile page, event registration, and a news feed. The app is designed to enhance communication and engagement within the NSS community.",
+    "skills": ["React", "Node"],
+    "source": "https://github.com/rajikarnan/secnss"
+  },
+  {
+    "title": "RMC VClassrooms - website and app",
+    "imageSrc": "projects/vclassroom.png",
+    "description": "An Learning platform that schools or colleges can administer to teach online. Includes feature to upload notes, conduct exams/tests, upload and evaluate assignments, view exam and assignment results, access to books online, and conduct online classes. Separate logins for Students and staff.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Crime mapping",
+    "imageSrc": "projects/crimemapping.png",
+    "description": "A website that categorizes crimes and provides reports on hotspot areas for specific crimes, as well as official records on all accused individuals. Accepts data through CSV files and maps them. Includes features to file a complaint to the police online, an Emergency feature to alert police in critical situations, search for a crime hotspot, update.",
+    "skills": ["Java", "JavaScript", "JQuery", "QGIS", "HTML", "CSS"]
+  },
+  {
+    "title": "Baymax Personal Health Assistant - App",
+    "imageSrc": "projects/baymax.png",
+    "description": "Health care assistant - Based on the data received from the tracker, an alert message is generated for the specified individuals and their doctor, as well as nearby hospitals, using their location, Medicine alerts. This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "SQLite", "Android"],
+    "source": "https://github.com/rajikarnan/baymax"
+  },
+  {
+    "title": "Screenshot Timer",
+    "imageSrc": "projects/timer.png",
+    "description": "Just a little play with PHP",
+    "skills": ["Java", "SQLite", "Android"],
+    "source": "https://github.com/rajikarnan/screenshotTimer"
+  }
+]
