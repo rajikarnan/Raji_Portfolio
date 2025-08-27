@@ -8,14 +8,17 @@
   padding: 40px 20px 0px;
   z-index: 2;
   margin: 0;
-  /* background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d; */
+  /* box-shadow: 0 16px 14px 0 #04152d;  */
 }
 
 .title {
   font-size: 25px;
   font-weight: 500;
   text-decoration: none;
+  /* background: linear-gradient(160deg, #ba1deb 30%, #0703e0 76%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
   color: var(--color-text);
 }
 
@@ -37,6 +40,10 @@
   font-size: 16px;
   color: var(--color-text);
   text-decoration: none;
+  /* background: linear-gradient(160deg, #ba1deb 30%, #0703e0 76%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
 }
 
 @media screen and (max-width: 830px) {
