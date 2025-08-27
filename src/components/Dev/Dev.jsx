@@ -29,7 +29,7 @@ export const Dev = () => {
             Download Resume (PDF)
           </a>
 
-          <a href="mailto:rajikarnan24@email.com" className={styles.contactBtn}>
+          <a href="#HireMe" className={styles.contactBtn}>
             Contact Me
           </a>
         </div>
