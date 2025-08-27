@@ -6,3 +6,12 @@
   height: 100%;
   overflow: hidden;
 }
+
+.App h2 {
+  font-size: 40px;
+  font-weight: 700;
+  background: linear-gradient(270deg, #ba1deb 41%, #0703e0 63%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

@@ -52,7 +52,7 @@ export const Gettoknowme = () => {
             <div className={`${styles.aboutItemText} ${styles.locationText}`}>
               <h3>My location</h3>
               <p>
-                Napier, New Zealand. I am open to relocating within New Zealand
+                Auckland, New Zealand. I am open to relocating within New Zealand
                 for the right opportunity.
               </p>
             </div>

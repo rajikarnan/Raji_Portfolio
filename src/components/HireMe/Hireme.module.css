@@ -4,17 +4,74 @@
   color: var(--color-text);
   background-color: rgba(12, 12, 12, 0.6);
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-evenly;
   width: 100vw;
   padding: 40px 5%;
-  gap: 10px;
+  gap: 80px;
+  color: #fff;
 }
 
 .text h2 {
   font-size: 80px;
   font-weight: 700;
   letter-spacing: 4px;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 10px;
+}
+.contactsection {
+  display: flex;
+  justify-content: space-around;
+  gap: 150px;
+}
+
+.contactLeft {
+  display: flex;
+  flex-direction: column;
+  gap : 30px;
+}
+
+.contactLeft p {
+  max-width: 550px;
+  color:#d8d8d8;
+  font-size: 18px;
+  line-height: 35PX;
+}
+
+.contact_details {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.contact_detail {
+  display: flex;
+  align-items: center;
+  gap:20px;
+}
+
+.contact_detail img{
+  width:30px;
+  height:30px;
+}
+
+.contactLeft h1{
+  font-size: 60px;
+  font-weight: 700;
+  /* background: linear-gradient(270deg, #DF8908 80%, #B415FF 100%); */
+  background: linear-gradient(270deg, #ba1deb 60%, #0703e0 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .text p {
@@ -37,13 +94,68 @@
   gap: 25px;
 }
 
-.link a {
-  color: var(--color-text);
-  text-decoration: none;
-  font-size: 30px;
+.contact_detail a {
+  text-decoration: underline;
+  font-size: 18px;
+  background: linear-gradient(270deg, #ba1deb 30%, #0703e0 76%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-weight: 400;
   letter-spacing: 1.5px;
 }
+
+.contact_right {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap:30px;
+}
+
+.contact_right label {
+  color:#d8d8d8;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.contact_right input {
+  width: 700px;
+  height: 78px;
+  padding: 20px;
+  border-radius: 4px;
+  border: none;
+  background: #32323c;
+  color: #A0A0A0;
+  font-size: 18px;
+}
+.contact_right textarea {
+  width: 700px;
+  height:200px;
+  border: none;
+  padding: 25px;
+  border-radius: 4px;
+  background: #32323c;
+  color: #A0A0A0;
+  font-size: 18px;
+}
+
+.contact_submit {
+  border: none;
+  color: white;
+  background: linear-gradient(270deg, #ba1deb 12%, #383699 56%);
+  border-radius: 50px;
+  font-size:22px;
+  padding:10px 40px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.contact_submit:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
 
 @media screen and (max-width: 830px) {
   .container {
